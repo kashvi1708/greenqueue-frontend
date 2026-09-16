@@ -139,3 +139,7 @@ If you ever add a real backend and want it served from the same Firebase
 project, that's a separate step (Cloud Functions or Cloud Run + Hosting
 rewrites) — not covered here since this app currently talks to an
 external `VITE_API_BASE_URL`, not a Firebase-hosted API.
+
+### GreenQueue Backend GitHub Repository
+https://github.com/kashvi1708/greenqueue-backend
+
